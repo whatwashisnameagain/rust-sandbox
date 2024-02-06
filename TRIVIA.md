@@ -5,3 +5,7 @@
 4. Where is rust's package manager called and registry located?
 5. How do you add a dependency with rust's package manager?
 6. What's the name of Rust's unofficial Mascot?
+7. What is the significance of ! in a function call?
+8. What's the difference between cargo build / run / check?
+9. How do you create a new project with Cargo?
+10. [ For JS / Python Devs] What's the Rust equivalent to Npm i or pip install?
