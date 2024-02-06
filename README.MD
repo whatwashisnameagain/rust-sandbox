@@ -20,6 +20,8 @@ or
 
 ##  Offical Docs / Rust-lang Book
 https://doc.rust-lang.org/book/
+or 
+run `rustup docs --book`
 
 ## Issues encountered
 > 020624 | 11A | Reumy
