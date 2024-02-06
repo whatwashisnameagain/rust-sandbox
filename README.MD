@@ -22,9 +22,7 @@ or
 https://doc.rust-lang.org/book/
 
 ## Issues encountered
-### 020624 | 11A | Reumy
-- On installation I found that rustup wasn't added to path so I had to manually add it. Luckily since I set up an alias to edit my zshrc with vi I was able to quickly create a manual export for it and getting running by testing "rustup update". The exported PATH I created was the following since rust binaries are located it $HOME/.cargo/bin: 
-
-`export PATH="$PATH:$HOME/.cargo.bin"`
-
-- Everything afterwards worked beautifully
+> 020624 | 11A | Reumy
+> On installation I found that rustup wasn't added to path so I had to manually add it. Luckily since I set up an alias to edit my zshrc with vi I was able to quickly create a manual export for it and getting running by testing "rustup update". The exported PATH I created was the following since rust binaries are located it $HOME/.cargo/bin: 
+> `export PATH="$PATH:$HOME/.cargo.bin"`
+> Everything afterwards worked beautifully
