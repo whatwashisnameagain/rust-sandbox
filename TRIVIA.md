@@ -2,5 +2,6 @@
 1. What is Rust's official build tool called?
 2. What is Rust's official installer & Version management tool called?
 3. What is Rusts manifest called, located & used for?
-4. Where is rust's package registry located?
-5. How do you add a dependecy with rust's package manager?
+4. Where is rust's package manager called and registry located?
+5. How do you add a dependency with rust's package manager?
+6. What's the name of Rust's unofficial Mascot?
